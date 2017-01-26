@@ -3,10 +3,10 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginBottom="5dp"
-    android:layout_marginLeft="1dp"
-    android:layout_marginRight="1dp"
-    android:layout_marginTop="1dp">
+    android:layout_marginBottom="@dimen/layout_marginBottom"
+    android:layout_marginLeft="@dimen/layout_margin"
+    android:layout_marginRight="@dimen/layout_margin"
+    android:layout_marginTop="@dimen/layout_margin">
 
     <ImageView
         android:id="@+id/shots_images"
@@ -18,7 +18,7 @@
     <LinearLayout
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="#AA000000"
+    android:background="@color/backgroundList"
     android:layout_gravity="center_horizontal|bottom"
     android:orientation="vertical">
     <TextView
@@ -26,9 +26,9 @@
         android:text="Title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="5dip"
-        android:textColor="#ffffffff"
-        android:textSize="12sp" />
+        android:padding="@dimen/textPadding"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/textSizeTitle" />
 
     <TextView
         android:id="@+id/shots_description"
@@ -36,8 +36,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:maxLines="2"
-        android:padding="5dip"
-        android:textColor="#ffffffff"
-        android:textSize="10sp" />
+        android:padding="@dimen/textPadding"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/textSizeDescription" />
 </LinearLayout>
 </FrameLayout>

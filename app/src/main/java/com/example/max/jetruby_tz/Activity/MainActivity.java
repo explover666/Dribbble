@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.widget.Toast;
+
 import com.example.max.jetruby_tz.Adapters.RVAdapter;
 import com.example.max.jetruby_tz.R;
 import com.example.max.jetruby_tz.Retrofit.RetroClient;
@@ -46,6 +48,9 @@ public class MainActivity extends Activity{
                     }
                     @Override
                     public void onFailure(Call<List<Shot>> call, Throwable t) {
+                        Toast toast = Toast.makeText(getApplicationContext(),
+                                "Server unreachable, please try again later(", Toast.LENGTH_SHORT);
+                        toast.show();
                     }
                 });
             }
