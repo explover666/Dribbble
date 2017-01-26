@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="android-android-24">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/platforms/android-24/android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$APPLICATION_CONFIG_DIR$/settingsRepository/repository/app/src/androidTest/java" />
+      <root url="file://$APPLICATION_CONFIG_DIR$/settingsRepository/repository/app/src/main/java" />
+      <root url="file://$APPLICATION_CONFIG_DIR$/settingsRepository/repository/app/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

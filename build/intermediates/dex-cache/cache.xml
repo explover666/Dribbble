@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_682efe6c0c9fd59b8086ac83fc549b1b2fe2d0f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_f2148f33d3b43ec66e6cf86ee60b9f3517abf59b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cf3a90d546756cd0a53060d3240a8067f979005f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\gson-2.8.0_fa36081d366f7622bb8a9d5636521451d5dc224a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_838a27a684d0108cfb5da3359e4764b9542bae5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_9dc8117178bac1996fa361b865c982ad11084f90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ee186ed973edd914e0513ae1aa80b3224dc2b9a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_d5adeea207f8d6739071fd71a6a3bc671b331a44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\okio-1.8.0_c2c60d9cf67c9f71c49a8832ff34a60fef3b2202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_5f0eaa4c81a7455ef333b98cc36b62ba92ec6a79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_732cd148fa314a765b964505a9cbbd2ff278b736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_1012ab26437966c7fd89be3e0a51b42bf4a6a054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_07a9ed8fa409ed2d717ff429545aaeacc5c687d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0_d5ba83f73f5c8b5bf1b1726c72276e8477c71fe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_92449fbe6695fe6b762137ab454cccbe2f358618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.jakewharton.retrofit\retrofit1-okhttp3-client\1.1.0\ef9dee021f4fe8ce4c05da164d3796e793d24a8a\retrofit1-okhttp3-client-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ef9dee021f4fe8ce4c05da164d3796e793d24a8a">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\retrofit1-okhttp3-client-1.1.0_e1982f33352a857e96cb6b62d0304bb07c91bd29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1f808261e5c8a3952d484c411b02822d938c5b7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_409efe127c97685c40e9dd8e9a8f5b3c50615980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_c72fdae95e82919c68a4015a6f8aa3413f3f53a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_f3f7fa3da1e421924200a9fdd42039caf5ef68a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8f26b71383338b25f70888d0284f4f8210d623ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_2ec525bcf996a3914159e718789b178a22a75804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_4674bef102430ccf3e37fb2a938cae77bddbde4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\Jetruby_TZ\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_091cf99f1e9d5dda13627d38af4a3a2f7c589ff0.jar" />
+    </item>
+
+</items>
